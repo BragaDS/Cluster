@@ -1,16 +1,17 @@
 ## <div class="header2">Structure </div>
 - **data/**
   - **raw/**
-    - [**cc.csv**](https://github.com/BragaDS/Customer-Clustering/blob/master/data/raw/cc.csv)
+    - [**cc.csv**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/data/raw/cc.csv)
   - **processed/**
     - [**cc_cluster.csv**](https://github.com/BragaDS/Customer-Clustering/blob/master/data/processed/cc_cluster.csv)
 - **src/**
-  - [**\_\_init\_\_.py**](https://github.com/BragaDS/Customer-Clustering/blob/master/src/__init__.py)
-  - [**cluster.py**](https://github.com/BragaDS/Customer-Clustering/blob/master/src/cluster.py)
+  - [**\_\_init\_\_.py**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/src/__init__.py)
+  - [**cluster.py**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/src/cluster.py)
 - **notebooks/**
-  - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/master/notebooks/cluster.ipynb)
-- [**requirements.txt**](https://github.com/BragaDS/Customer-Clustering/blob/master/requirements.txt)
-- [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/master/README.md)
+  - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/notebooks/cluster.ipynb)
+- [**requirements.txt**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/requirements.txt)
+- [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/README.md)
+
 
 
 ## <div class="header2">1 - Dataset Description</div>
