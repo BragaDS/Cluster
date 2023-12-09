@@ -10,7 +10,7 @@
 - **notebooks/**
   - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/notebook/cluster.ipynb)
 - [**requirements.txt**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/requirements.txt)
-- [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/README.md)
+- [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/489fbcb842747a32b0775fa13f981ee6f039c4e0/README.MD)
 
 
 
