@@ -8,7 +8,7 @@
   - [**\_\_init\_\_.py**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/src/__init__.py)
   - [**cluster.py**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/src/cluster.py)
 - **notebooks/**
-  - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/notebooks/cluster.ipynb)
+  - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/notebook/cluster.ipynb)
 - [**requirements.txt**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/requirements.txt)
 - [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/90dfedec48d33b7191d4e9f6f43d631e3229a4f2/README.md)
 
