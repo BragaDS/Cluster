@@ -6,7 +6,7 @@
   - processed/
     - [cc_cluster.csv](https://github.com/BragaDS/Customer-Clustering/blob/master/data/processed/cc_cluster.csv)
 - src/
-  - [```__init__.py](https://github.com/BragaDS/Customer-Clustering/blob/master/src/__init__.py)
+  - [__init__.py](https://github.com/BragaDS/Customer-Clustering/blob/master/src/__init__.py)
   - [cluster.py](https://github.com/BragaDS/Customer-Clustering/blob/master/src/cluster.py)
 - notebooks/
   - [cluster.ipynb](https://github.com/BragaDS/Customer-Clustering/blob/master/notebooks/cluster.ipynb)
