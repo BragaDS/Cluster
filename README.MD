@@ -1,17 +1,16 @@
-
 ## <div class="header2">Structure </div>
-- data/
-  - raw/
-    - [cc.csv](https://github.com/BragaDS/Customer-Clustering/blob/master/data/raw/cc.csv)
-  - processed/
-    - [cc_cluster.csv](https://github.com/BragaDS/Customer-Clustering/blob/master/data/processed/cc_cluster.csv)
-- src/
-  - [__init__.py](https://github.com/BragaDS/Customer-Clustering/blob/master/src/__init__.py)
-  - [cluster.py](https://github.com/BragaDS/Customer-Clustering/blob/master/src/cluster.py)
-- notebooks/
-  - [cluster.ipynb](https://github.com/BragaDS/Customer-Clustering/blob/master/notebooks/cluster.ipynb)
-- [requirements.txt](https://github.com/BragaDS/Customer-Clustering/blob/master/requirements.txt)
-- [README.md](https://github.com/BragaDS/Customer-Clustering/blob/master/README.md)
+- **data/**
+  - **raw/**
+    - [**cc.csv**](https://github.com/BragaDS/Customer-Clustering/blob/master/data/raw/cc.csv)
+  - **processed/**
+    - [**cc_cluster.csv**](https://github.com/BragaDS/Customer-Clustering/blob/master/data/processed/cc_cluster.csv)
+- **src/**
+  - [**\_\_init\_\_.py**](https://github.com/BragaDS/Customer-Clustering/blob/master/src/__init__.py)
+  - [**cluster.py**](https://github.com/BragaDS/Customer-Clustering/blob/master/src/cluster.py)
+- **notebooks/**
+  - [**cluster.ipynb**](https://github.com/BragaDS/Customer-Clustering/blob/master/notebooks/cluster.ipynb)
+- [**requirements.txt**](https://github.com/BragaDS/Customer-Clustering/blob/master/requirements.txt)
+- [**README.md**](https://github.com/BragaDS/Customer-Clustering/blob/master/README.md)
 
 
 ## <div class="header2">1 - Dataset Description</div>
